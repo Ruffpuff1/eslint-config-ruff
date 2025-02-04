@@ -30,6 +30,6 @@
     "!dist/*.tsbuildinfo"
   ],
   "devDependencies": {
-    "@types/node": "17.0.18"
+    "@types/node": "22.13.1"
   }
 }
